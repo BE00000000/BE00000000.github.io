@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; be-card-info &#8212; WordPress</title>
+	<title>Log In &lsaquo; BLACK-ELECTRON &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <script src="https://BE00000000.github.io/wp-content/plugins/weglot/dist/front-js.js?ver=3.8.3" id="wp-weglot-js-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="https://BE00000000.github.io/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
@@ -49,7 +49,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://BE00000000.github.io/">&larr; Go to be-card-info</a>		</p>
+			<a href="https://BE00000000.github.io/">&larr; Go to BLACK-ELECTRON</a>		</p>
 			</div>
 			<script src="https://BE00000000.github.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="https://BE00000000.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
