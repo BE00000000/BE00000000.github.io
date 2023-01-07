@@ -4,11 +4,14 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; be-card-info &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
+<script src="https://BE00000000.github.io/wp-content/plugins/weglot/dist/front-js.js?ver=3.8.3" id="wp-weglot-js-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="https://BE00000000.github.io/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://BE00000000.github.io/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="forms-css" href="https://BE00000000.github.io/wp-admin/css/forms.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://BE00000000.github.io/wp-admin/css/l10n.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="login-css" href="https://BE00000000.github.io/wp-admin/css/login.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="weglot-css-css" href="https://BE00000000.github.io/wp-content/plugins/weglot/dist/css/front-css.css?ver=3.8.3" media="">
+<link rel="stylesheet" id="new-flag-css-css" href="https://BE00000000.github.io/wp-content/plugins/weglot/app/styles/new-flags.css?ver=3.8.3" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -64,7 +67,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://BE00000000.github.io/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://BE00000000.github.io/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"775c67dd5a"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"8904e8a9b0"};</script>
 <script src="https://BE00000000.github.io/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
