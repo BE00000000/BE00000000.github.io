@@ -67,7 +67,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://BE00000000.github.io/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://BE00000000.github.io/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"1cb3633b75"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"75f49ae3c5"};</script>
 <script src="https://BE00000000.github.io/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
